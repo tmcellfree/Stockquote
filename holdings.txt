@@ -1,0 +1,37 @@
+Woodford Patient,WPCT.L*
+City of London,CTY.L*
+ForesightInfrastructure,FTVI.L*
+UniCredit,UCG.MI*
+Deutsche Bank,DBK.DE*
+Virgin Money,VM.L*
+Bank of Ireland,BKIR.L*
+Man Group,EMG.L*
+Easyjet,EZJ.L*
+Ryanair,RYA.L*
+Ocado,OCDO.L*
+CountryWide,CWD.L*
+Imperial Brands,IMB.L*
+GSK,GSK.L*
+AstraZeneca,AZN.L*
+Capita,CPI.L*
+National Grid,NG.L*
+Vodafone,VOD.L*
+Royal Mail,RMG.L*
+Brent Short,3BRS.L*
+Gold,PHGP.L*
+Gold Miners Index,GD*
+Petropavlovsk,POG.L*
+Intrexon,XON*
+Tesla,TSLA*
+Netflix,NFLX*
+Twitter,TWTR*
+Snap,SNAP*
+Apple,AAPL*
+Fitbit,FIT*
+Verizon,VZ*
+AT&T,T*
+Coca Cola,KO*
+General Motors,GM*
+Take-Two Interactive,TTWO*
+Go Pro,GPRO*
+Adobe,ADBE*
